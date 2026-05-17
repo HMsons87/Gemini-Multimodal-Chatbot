@@ -1,0 +1,14 @@
+# Ignore Virtual Environment
+venv/
+.venv/
+env/
+
+# Ignore local history, audio, and theme settings
+chat_history.json
+theme_setting.txt
+temp_audio_*.wav
+*.wav
+
+# Ignore Python cache
+__pycache__/
+*.pyc
